@@ -1,0 +1,25 @@
+/*
+         Title: Mr
+      Forename: Jean Aristide
+       Surname: Ndjomo Etoundi
+        Module: Small Scale Application Development
+       Version:
+     Unit Code: H17W34
+
+*/
+
+/* The properties below apply on the the body across the website Pages*/
+body{
+   background-color: grey;
+   font-family: Verdana,Tahoma, sans-serif;
+   font-size: 18px;
+}
+
+/*Below it is the style for the big title*/
+h1{
+    text-transform: capitalize;
+}
+/*The following properties apply on all images'tags*/
+img{
+    max-width: 100%;
+}
